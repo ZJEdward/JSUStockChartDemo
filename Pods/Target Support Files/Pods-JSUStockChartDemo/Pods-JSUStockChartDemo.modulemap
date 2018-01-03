@@ -1,0 +1,6 @@
+framework module Pods_JSUStockChartDemo {
+  umbrella header "Pods-JSUStockChartDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
